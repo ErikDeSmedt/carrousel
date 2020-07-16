@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Carrousel - Zomeravonden</title>
-    <link>http://carrouselschilde.be/</link>
+    <link>https://carrouselschilde.be/</link>
     <description>Recent content in Home on Carrousel - Zomeravonden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
@@ -10,25 +10,25 @@
     <webMaster>erikdesmedt@gmail.com (Carrousel VZW)</webMaster>
     <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://carrouselschilde.be/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carrouselschilde.be/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quiz</title>
-      <link>http://carrouselschilde.be/quiz/</link>
+      <link>https://carrouselschilde.be/quiz/</link>
       <pubDate>Fri, 10 Jul 2020 00:13:38 +0200</pubDate>
       <author>erikdesmedt@gmail.com (Carrousel VZW)</author>
-      <guid>http://carrouselschilde.be/quiz/</guid>
+      <guid>https://carrouselschilde.be/quiz/</guid>
       <description>Quiz met live-muziek Op vrijdag avond 7 augustus nodigen we jullie uit voor een unieke muzikale quiz onder begeleiding van een schitterende live-band. Geschiedenis- of roddelboekjes-fanaten hoeven niets te vrezen. Ook jullie zullen een interessante uitdaging vinden in ons gevarieerde vragenpalet. Inschrijven kost 30 EUR voor een team van maximaal 6 personen. Je inschrijving is pas definitief nadat je een bevestiginsmail ontvangen hebt.
 Waar en wanneer? De quiz gaat door aan &amp;rsquo;t Parkske in Schilde.</description>
     </item>
     
     <item>
       <title>Locatie</title>
-      <link>http://carrouselschilde.be/locatie/</link>
+      <link>https://carrouselschilde.be/locatie/</link>
       <pubDate>Fri, 10 Jul 2020 00:04:17 +0200</pubDate>
       <author>erikdesmedt@gmail.com (Carrousel VZW)</author>
-      <guid>http://carrouselschilde.be/locatie/</guid>
+      <guid>https://carrouselschilde.be/locatie/</guid>
       <description>Ons Terrein Ook deze zomer vind je ons terrein in het Parkske aan de muziek en woord-academie. Dit is aan Turnhoutsebaan 204, 2970 Schilde zoals aangegeven in het Kaartje onderaan. View Larger Map
 Met de fiets Fietsenstalling wordt voorzien. Je kan je fiets stallen op de parking van de muziek academie aan de Turnhoutse baan.
 Met de bus Ons terrein is vlot bereikbaar met bussen van De Lijn. - De lijnen 410, 411, 412, 413, 414 bedienen de bushalte Schilde Brasschaatsebaan - De lijnen 610 wordt bediend via een halte in de schoolstraat</description>
@@ -36,10 +36,10 @@ Met de bus Ons terrein is vlot bereikbaar met bussen van De Lijn. - De lijnen 41
     
     <item>
       <title>Header</title>
-      <link>http://carrouselschilde.be/annulatie/</link>
+      <link>https://carrouselschilde.be/annulatie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>erikdesmedt@gmail.com (Carrousel VZW)</author>
-      <guid>http://carrouselschilde.be/annulatie/</guid>
+      <guid>https://carrouselschilde.be/annulatie/</guid>
       <description>Geen klassieke Carrousel in 2020. Wel een extra Carrousel-avond in 2021! Lieve mensen
 We dromen van een heerlijke zomer samen. We dromen van gezelligheid, muziek en ontspanning. Het is op dit ogenblik helemaal niet duidelijk of dat mogelijk zal zijn in augustus. Die onduidelijkheid heeft veel impact op onze organisatie. Wat voor evenement moeten we voorbereiden? Één waarbij social distancing gerespecteerd moet worden? Één waarbij mondmaskers en handhygiëne bij de medewerkers centraal staan?</description>
     </item>
