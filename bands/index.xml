@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Carrousel - Zomeravonden</title>
-    <link>https://carrouselschilde.be/</link>
-    <description>Recent content in Home on Carrousel - Zomeravonden</description>
+    <title>Veston on Carrousel - Zomeravonden</title>
+    <link>https://carrouselschilde.be/bands/</link>
+    <description>Recent content in Veston on Carrousel - Zomeravonden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
     <managingEditor>erikdesmedt@gmail.com (Carrousel VZW)</managingEditor>
     <webMaster>erikdesmedt@gmail.com (Carrousel VZW)</webMaster>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://carrouselschilde.be/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carrouselschilde.be/bands/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -57,17 +57,6 @@ Les Truttes bestaan in 2021 zowaar 25 jaar. Dat vieren ze met een heuse ‘Anniv
       <author>erikdesmedt@gmail.com (Carrousel VZW)</author>
       <guid>https://carrouselschilde.be/bands/veston/</guid>
       <description>Veston - 3 Augustus Veston klinkt Caraïbisch en Afrikaans maar zingt in het Vlaams. Of het ‘Algemeen Verstaanbaar Kempisch’, zo je wil. Je smeert maar beter je dansbenen in! Het wordt al snel een broeierig feest met tijdloze dansmuziek voor jong en oud waarbij het publiek wordt aangevuurd door grappige en herkenbare teksten. De luchtige en tropische mix van blues, gipsy en rumba staat garant voor een zomers feest!eston klinkt Caraibisch en Afrikaans maar zingt in het Vlaams.</description>
-    </item>
-    
-    <item>
-      <title>Locatie</title>
-      <link>https://carrouselschilde.be/locatie/</link>
-      <pubDate>Fri, 10 Jul 2020 00:04:17 +0200</pubDate>
-      <author>erikdesmedt@gmail.com (Carrousel VZW)</author>
-      <guid>https://carrouselschilde.be/locatie/</guid>
-      <description>Ons Terrein Ook deze zomer vind je ons terrein in het Parkske aan de muziek en woord-academie. Dit is aan Turnhoutsebaan 204, 2970 Schilde zoals aangegeven in het Kaartje onderaan. View Larger Map
-Met de fiets Fietsenstalling wordt voorzien. Je kan je fiets stallen op de parking van de muziek academie aan de Turnhoutse baan.
-Met de bus Ons terrein is vlot bereikbaar met bussen van De Lijn. - De lijnen 410, 411, 412, 413, 414 bedienen de bushalte Schilde Brasschaatsebaan - De lijnen 610 wordt bediend via een halte in de schoolstraat</description>
     </item>
     
   </channel>
