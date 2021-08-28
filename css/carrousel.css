@@ -22,6 +22,8 @@ footer {
     border-radius: 0.5em;
     box-shadow: 3px 3px #88888860;
     opacity: 1.0;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 .section-box img {
@@ -31,6 +33,10 @@ footer {
 
 .bg-red {
     background-color: #8a1825;
+}
+
+.nav-item {
+  padding-right: 2em;
 }
 
 .nav-link {
