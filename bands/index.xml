@@ -8,11 +8,7 @@
     <language>nl-be</language>
     <managingEditor>erikdesmedt@gmail.com (Carrousel VZW)</managingEditor>
     <webMaster>erikdesmedt@gmail.com (Carrousel VZW)</webMaster>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/bands/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/bands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joost de Lange band - 24 Augustus</title>
       <link>/bands/joost_de_lange/</link>
